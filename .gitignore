@@ -1,0 +1,5 @@
+.parkpi/
+__pycache__/
+*.pyc
+.vscode/
+valid_uids.txt'
